@@ -2,6 +2,8 @@
 
 https://resume-jd-matcher-elcdj8mtm7vyvqf5y3rxx5.streamlit.app/
 
+https://resume-jd-matcher-elcdj8mtm7vyvqf5y3rxx5.streamlit.app/
+
 A small Streamlit app that checks how well a resume fits a job description (JD).
 
 You upload a resume (PDF) and paste a JD. The app gives you:
