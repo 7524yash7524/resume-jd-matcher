@@ -15,7 +15,7 @@ You upload a resume (PDF) and paste a JD. The app gives you:
 **Live demo:** _add your Streamlit Cloud link here_
 
 ![Uploading image.png…]()
-<!-- add a screenshot after you run it -->
+
 
 ---
 
